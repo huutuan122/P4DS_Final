@@ -1,0 +1,8 @@
+Airbnb
+- quận nào đáng ở
+- Loại room ảnh hưởng đến giá cả như nào
+- giá cả trung bình theo từng quận
+- Khu nào nhận được phản hồi nhiều nhất năm 2019
+- Với loại phòng nào đó thì nên ở khu nào (dựa trên giá cả hoặc số lượng review)
+- host nào bận nhất
+- Dựa trên minimum_nights, nếu đi công tác 10 ngày thì nên ở nhà của host nào là hợp lí nhất
