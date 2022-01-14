@@ -1,10 +1,15 @@
-# P4DS_Final
-This is a repo for the final project, programming for data science course
+# P4DS Final
+* A final project for Programming for Data Science, HCMUS
+___
+# Contributors
+|    ID    |       Name        |                         Github                          |
+| :------: | :---------------: | :-----------------------------------------------------: |
+| 19127082 | Nguyễn Tất Trường | [TruongNguyen0104](https://github.com/TruongNguyen0104) |
+| 19127083 |  Nguyễn Hữu Tuấn  |       [huutuan122](https://github.com/huutuan122)       |
 
-19127083 Nguyễn Hữu Tuấn - Github: huutuan122 - tuannguyenhuu0201@gmail.com
+# Source
+* The project is about the status of airbnb in NewYork city, in 2019.
+* Source data: [New York City Airbnb Open Data](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data?select=AB_NYC_2019.csv)
 
-19127082 Nguyễn Tất Trường - Github: TruongNguyen0104 - nguyentattruong0104@gmail.com
-
-The project is about the status of airbnb in NewYork city, in 2019.
-
-Report for this project: https://docs.google.com/spreadsheets/d/1gY4_YlkqIpgEpNEFalIM_uhl8vFFB0StBxZIjdVtrms/edit?usp=sharing
+# Project report
+https://docs.google.com/spreadsheets/d/1gY4_YlkqIpgEpNEFalIM_uhl8vFFB0StBxZIjdVtrms/edit?usp=sharing
