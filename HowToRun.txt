@@ -1,0 +1,15 @@
+How to run with min_ds-env:
+* Open terminal or cmd and cd to folder containing project
+* conda activate min_ds-env.yml
+* jupyter notebook
+* click "Run all" in notebook file.
+
+With other environments:
+ * To run this project, you need to follow our steps:
+  * Open terminal or cmd and cd to folder containing project, then install the following packages:
+   * pip install pandas
+   * pip install matplotlib
+   * pip install seaborn
+   * pip install numpy
+ * Click "Run all" in notebook file.
+

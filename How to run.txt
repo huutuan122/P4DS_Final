@@ -1,7 +1,0 @@
-How to run
-* To run this project, you need to install following packages:
-* pip install pandas
-* pip install matplotlib
-* pip install seaborn
-* pip install numpy
-* click run all in your notebook.
